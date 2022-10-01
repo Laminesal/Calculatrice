@@ -1,0 +1,10 @@
+Il n'y a pas de différence entre l'utilisation de 
+@Service, 
+@Component et 
+@Repository, 
+vous pouvez les utiliser pour annoter sur votre classe qui convient à la signification 
+et au contexte de l'application.
+
+
+
+
