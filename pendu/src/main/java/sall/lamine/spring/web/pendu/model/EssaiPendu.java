@@ -1,4 +1,4 @@
-package fr.ajc.spring.web.pendu.model;
+package sall.lamine.spring.web.pendu.model;
 
 public class EssaiPendu {
 

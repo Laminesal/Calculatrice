@@ -1,4 +1,4 @@
-package fr.ajc.spring.web.pendu;
+package sall.lamine.spring.web.pendu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

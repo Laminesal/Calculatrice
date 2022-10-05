@@ -1,4 +1,4 @@
-package fr.ajc.spring.web.pendu.controller;
+package sall.lamine.spring.web.pendu.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import fr.ajc.spring.web.pendu.model.EssaiPendu;
+import sall.lamine.spring.web.pendu.model.EssaiPendu;
 
 @RestController
 @RequestMapping("/pendu")
